@@ -1,4 +1,5 @@
 - 👋 Hi, I'm Majeed
 - 🌱 I’m currently learning infrastructure and DevOps
 - 👀 I'm interested in web and app development
+- 🛠️ I'm interested in pursuing a career in DevOps or forward deployed engineering
 - 📫 How to reach me: majeedkhori@gmail.com
